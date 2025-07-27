@@ -50,7 +50,7 @@ This project analyzes a retail dataset (Superstore) to uncover **sales and profi
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard.png)
 
 ---
 
